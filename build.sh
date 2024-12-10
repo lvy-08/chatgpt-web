@@ -1,0 +1,1 @@
+docker build --progress=plain -t halfhalf/chatgpt-web:1.0 .

@@ -1,1 +1,0 @@
-docker build -f ./Dockerfile -t halfhalf/chatgpt-web:1.0 .
